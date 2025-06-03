@@ -1,5 +1,7 @@
 # Argentina GeoJSON Map
 
+![Heatmap Example](Figure_1.png)
+
 This repository offers a GeoJSON map of Argentina and a Python script to visualize and analyze data by province. Easily create heatmaps and perform geographic data analysis for educational, scientific, or presentation purposes using the provided map and tools.
 
 - Includes a ready-to-use `argentina.geojson` file with province boundaries.

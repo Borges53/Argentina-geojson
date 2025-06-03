@@ -1,5 +1,7 @@
 # Mapa GeoJSON de Argentina
 
+![Ejemplo de Mapa de Calor](Figure_1.png)
+
 Este repositorio ofrece un mapa GeoJSON de Argentina y un script en Python para visualizar y analizar datos por provincia. Permite crear mapas de calor y realizar análisis geográfico de manera sencilla para fines educativos, científicos o presentaciones.
 
 - Incluye el archivo `argentina.geojson` con los límites provinciales.
